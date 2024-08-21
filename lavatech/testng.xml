@@ -1,0 +1,13 @@
+<suite name="softwate testing">
+ 
+ <test name="testng test">
+ 	<classes>
+ 		<parameter name="email" value="rimikumari@gmail.com" />
+ 		<parameter name="password" value="rimik1234@12345@" />
+ 		<parameter name="name" value="Rimi" />
+ 		<parameter name="lname" value="Kumari" />
+ 		<class name="com.lavatech.www.TestClass" />
+ 	</classes>
+ </test>
+
+</suite>

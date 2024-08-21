@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+/home/yogita/eclipse-workspace20/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2030015529.index
+/lavatech/src/main/resources
